@@ -6,7 +6,9 @@ def get_book_text (filepath):
 def main ():
     text = get_book_text("books/frankenstein.txt")
     number_words(text)
+    number_characters(text)
     
 from stats import number_words
+from stats import number_characters
 
 main ()
