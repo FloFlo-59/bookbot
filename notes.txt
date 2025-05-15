@@ -1,3 +1,0 @@
-convert characters intro lowercases strings
-add each character in dictionary
-count each time a character is visible in dictionary 
